@@ -174,8 +174,7 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div>
               <h3 className="text-xl font-light mb-4">联系方式</h3>
-              <p>24小时调度: (415) 555-0123</p>
-              <p>邮箱: vip@sfchauffeur.com</p>
+              <p>24小时调度: (510)432-0608</p>
             </div>
             <div>
               <h3 className="text-xl font-light mb-4">服务项目</h3>
