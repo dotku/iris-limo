@@ -1,15 +1,11 @@
 import React from 'react';
 import {
-  Car,
-  Phone,
-  Calendar,
   Shield,
-  Star,
   MapPin,
   Clock,
-  Users,
   Award,
 } from 'lucide-react';
+import { Chatbot } from './components/Chatbox';
 
 function App() {
   const services = [
@@ -210,6 +206,9 @@ function App() {
           </div>
         </div>
       </footer>
+      
+      {/* Chatbot */}
+      <Chatbot />
     </div>
   );
 }
